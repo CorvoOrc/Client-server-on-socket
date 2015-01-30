@@ -1,0 +1,2 @@
+port for servis:51000;
+port for update:52000;
